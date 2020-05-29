@@ -1,0 +1,6 @@
+aux_source_directory(. DIR_LIB_SRCS)
+add_subdirectory(core)
+add_subdirectory(exec)
+add_subdirectory(module)
+add_subdirectory(jit)
+add_subdirectory(instr)
